@@ -1,0 +1,29 @@
+
+.bg {
+    background-color: #333333;
+    opacity: 70;
+    height: 97px;
+    width: 100%;
+}
+ul {
+    margin-top: 35px;
+    position: absolute;
+    right: 40px;
+    font-family: 'Montserrat';
+    display: flex;
+    flex-direction: row;
+    padding-left: 5%;
+    list-style: none; /*убираем маркеры списка*/
+  }
+  a {
+      padding-left: 0;
+      text-decoration: none; /*убираем подчеркивание текста ссылок*/
+      font-size: 14pt;
+      color: white;
+    }
+ul li {
+    margin-left: 50px;
+}
+ul li:hover {
+text-decoration: underline;
+}

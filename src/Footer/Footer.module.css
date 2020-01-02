@@ -1,0 +1,23 @@
+
+
+.Bg{
+    background-color: #fff1e2;
+    height: 200px;
+    color: #333333;
+    text-align:center;
+}
+.Title {
+font-family: 'Calistoga';
+font-size: 50pt;
+
+padding-top:15px;
+}
+.Description {
+    font-family:'Open Sans';
+    font-style: italic;
+    font-size:14pt;
+}
+a img{
+    padding-top: 25px;
+    padding-left: 10px;
+}
